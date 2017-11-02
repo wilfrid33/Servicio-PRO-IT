@@ -28,6 +28,7 @@ namespace pi2.Controllers
 
 
         //[AllowAnonymous]
+        //comentandoooo
         public Boolean Post(Clientes reg)
         {
 
