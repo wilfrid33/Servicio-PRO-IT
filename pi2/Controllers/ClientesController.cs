@@ -29,6 +29,7 @@ namespace pi2.Controllers
 
         //[AllowAnonymous]
         //comentandoooo
+        //Comentario de wilfrid
         public Boolean Post(Clientes reg)
         {
 
